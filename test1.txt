@@ -1,1 +1,2 @@
-created the text1.txt file 
+Git is working successfully!
+This is my first Git test.
